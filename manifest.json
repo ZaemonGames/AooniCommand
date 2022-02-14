@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "Behaviorpack for AooniCoomand. Created by ZaemonGames",
+    "name": "AooniCommand Ver1.0.0",
+    "uuid": "563a5c00-66b0-11ec-fb15-b9db5e998968",
+    "version": [0, 0, 1]
+  },
+  "modules": [
+    {
+      "description": "Behaviorpack for AooniCoomand. Created by ZaemonGames",
+      "type": "data",
+      "uuid": "563c09b0-66b0-11ec-9101-59c65494482e",
+      "version": [0, 0, 1]
+    }
+  ]
+}
