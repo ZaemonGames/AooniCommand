@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "1.0.2",
+    "name": "Aooni",
+    "uuid": "ff793c10-66b0-11ec-deba-e59750fe3725",
+    "version": [0, 0, 1]
+  },
+  "modules": [
+    {
+      "description": "1.0.2",
+      "type": "data",
+      "uuid": "ff7bd420-66b0-11ec-dea1-6d4ed092dbe1",
+      "version": [0, 0, 1]
+    }
+  ]
+}
