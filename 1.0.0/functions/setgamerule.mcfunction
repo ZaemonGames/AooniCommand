@@ -55,3 +55,5 @@ gamerule firedamage false
 #
 #死亡時のログを非表示にする
 gamerule showDeathMessages false
+#
+#END

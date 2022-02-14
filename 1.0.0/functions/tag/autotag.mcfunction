@@ -3,6 +3,8 @@
 #
 #
 #鬼以外のプレイヤーに逃走者をつける
-tag @a[tag=!鬼] add 逃走者
+tag @a[tag=!aooni] add hiroshi
 #鬼以外のプレイヤーにsitllをつける
-tag @a[tag=!鬼] add still
+tag @a[tag=!aooni] add still
+#
+#END
