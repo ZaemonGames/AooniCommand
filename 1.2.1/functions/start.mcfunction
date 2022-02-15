@@ -2,16 +2,11 @@
 #
 #
 #
-#赤文字警告
-tellraw @a {"rawtext":[{"text":"§c==================================="}]}
-tellraw @a {"rawtext":[{"text":"§cまもなくスタートします"}]}
-tellraw @a {"rawtext":[{"text":"§c==================================="}]}
-tellraw @a {"rawtext":[{"text":"§b読み込み中..."}]}
+#ランダム青鬼
+function tag/randomtag
 #
-#ワールドリセット
-function util/resetworld
+#タグ整理
+function tag/autotag
 #
-#スコアボードリセット
-function util/resetscoreboard
-#
-#タグリセット
+#スタート
+function util/starter
