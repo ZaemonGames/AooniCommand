@@ -3,9 +3,9 @@
 #
 #
 #赤文字警告
-tellraw @a {"rawtext":[{"text":"§4========================="}]}
-tellraw @a {"rawtext":[{"text":"§4まもなくスタートします"}]}
-tellraw @a {"rawtext":[{"text":"§4========================="}]}
+tellraw @a {"rawtext":[{"text":"§c==================================="}]}
+tellraw @a {"rawtext":[{"text":"§cまもなくスタートします"}]}
+tellraw @a {"rawtext":[{"text":"§c==================================="}]}
 tellraw @a {"rawtext":[{"text":"§b読み込み中..."}]}
 #
 #ワールドリセット
