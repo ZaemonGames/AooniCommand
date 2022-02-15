@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "AooniCommandsBehaviorPack By ZaemonGames",
+    "name": "AooniCommands Ver1.1.1",
+    "uuid": "93cb46b0-66b0-11ec-9906-8fce33949729",
+    "version": [0, 0, 1]
+  },
+  "modules": [
+    {
+      "description": "AooniCommandsBehaviorPack By ZaemonGames",
+      "type": "data",
+      "uuid": "93cc5820-66b0-11ec-9458-bd3387302b1c",
+      "version": [0, 0, 1]
+    }
+  ]
+}
