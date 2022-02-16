@@ -9,9 +9,6 @@ tag @a remove aooni
 tag @r[x=37,y=-59,z=-95,dx=-4,dy=4,dz=-4] add aooni
 #
 #ログ
-tellraw @a {"rawtext":[{"text":"§b今回の青鬼は  "},{"selector":"@a[tag=aooni]"},{"text":"  さんです"}]}
-#
-#ひろしtp
-tp @a[tag=hiroshi] -3 -60 30    
+tellraw @a {"rawtext":[{"text":"§b今回の青鬼は  "},{"selector":"@a[tag=aooni]"},{"text":"  さんです"}]}  
 #
 #END

@@ -2,6 +2,13 @@
 #
 #
 #
+#
+#ひろしtp
+tp @a[tag=hiroshi] -3 -60 30
+#
+#青鬼tp
+tp @a[tag=aooni] -39 -59 23
+#
 #赤文字警告
 tellraw @a {"rawtext":[{"text":"§c==================================="}]}
 tellraw @a {"rawtext":[{"text":"§cまもなくスタートします"}]}
@@ -14,22 +21,13 @@ function util/resetworld
 #スコアボードリセット
 function util/resetscoreboard
 #
-#タグリセット
-function tag/autotag
+#ゲームモード変更
+gamemode a @a
 #
-#ネームタグ非表示
-tag @a add nonametag
+#インベントリクリア
+clear @a
 #
-#ひろしhp設定
-tag @a[tag=hiroshi] add hp1
+#タイトル設定
+title @a times 0 60 10
 #
-#ひろし攻撃無効
-tag @a[tag=hiroshi] add power0
-#
-#青鬼攻撃力増加
-tag @a[tag=aooni] add power150
-#
-#青鬼移動速度低下
-tag @a[tag=aooni] add apeed7
-#
-#
+#エフェクト付与
