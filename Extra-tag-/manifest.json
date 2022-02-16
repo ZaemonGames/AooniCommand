@@ -1,0 +1,20 @@
+{
+"format_version": 2,
+"header": {
+"description": "§a@masterkamui4649
+§3tagコマンドによりプレイヤーでいろんなことができるようになるアドオンです。
+§3使えるtagなどはゲーム内でコマンド、/function taghelp で見てください",
+        "name": "Extra-tag-player-addon-V0.012a",
+"uuid": "eecf4476-db13-4743-88eb-986a18ba7ac9",
+"version": [ 0, 0, 1 ],
+"min_engine_version": [ 1, 17, 0 ]
+},
+"modules": [
+{
+"description": " ",
+"type": "data",
+"uuid": "3d05cb85-dc16-41ab-83ca-c7cd7f2e097c",
+"version": [0, 0, 1]
+}
+]
+}
