@@ -1,0 +1,12 @@
+#300S ADD
+#
+#
+#
+#300秒追加する
+scoreboard players add timer system 300
+#
+#タイトル表示
+title @a title §4残り時間が300秒増えました
+#
+#サウンド
+execute @a ~~~ playsound mob.enderdragon.death @a ~~~
