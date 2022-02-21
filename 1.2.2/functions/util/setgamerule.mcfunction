@@ -41,14 +41,14 @@ gamerule doFireTick false
 #TNTが爆発しないようにする
 gamerule tntExplodes false
 #
-#コマドの出力を表示しないようにする
+#コマンドの出力を表示しないようにする
 gamerule sendCommandFeedback false
 #
 #モブがアイテムをドロップしないようにする
 gamerule doMobLoot false
 #
 #モブがスポーンしないようにする
-gamerule doMobSpawn false
+gamerule domobspawning false
 #
 #落下ダメージをなくす
 gamerule falldamage false
