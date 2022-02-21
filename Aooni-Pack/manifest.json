@@ -1,0 +1,21 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "§a@ZaemonGames
+§e青鬼ごっこワールド専用パックです。
+§e使い方は私に聞いてください",
+    "name": "Aooni-Command-Behavior-Pack",
+    "uuid": "ff606500-8dc0-11ec-c731-0ba6d96319ac",
+    "version": [0, 0, 1]
+  },
+  "modules": [
+    {
+      "description": "§a@ZaemonGames
+§e青鬼ごっこワールド専用パックです。
+§e使い方は私に聞いてください",
+      "type": "data",
+      "uuid": "ff617670-8dc0-11ec-e9a6-47bbab8a639c",
+      "version": [0, 0, 1]
+    }
+  ]
+}
